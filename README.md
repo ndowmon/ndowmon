@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nick (he/him). Currently a senior software engineer at [JupiterOne](https://jupiterone.com/). [MIT](https://github.com/ndowmon/Masters-Thesis) Alum 🎓, [hyperloop](https://news.mit.edu/2019/overcoming-obstacles-hyperloop-competition-0828) competitor🚀. I think vehicle design is 💯. Let's collaborate!
+I'm Nick (he/him). Currently a senior software engineer at [JupiterOne](https://jupiterone.com/). [MIT](https://github.com/ndowmon/Masters-Thesis) Alum 🎓, [hyperloop](https://news.mit.edu/2019/overcoming-obstacles-hyperloop-competition-0828) competitor🚀.
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndowmon&show_icons=true&hide=stars)
 
